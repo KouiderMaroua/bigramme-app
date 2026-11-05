@@ -34,3 +34,6 @@ git clone https://github.com/KouiderMaroua/bigramme-app.git
 cd bigramme-app
 pip install -r requirements.txt
 streamlit run app.py
+```
+##  Démo en ligne
+https://bigramme-app.streamlit.app/
